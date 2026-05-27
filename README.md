@@ -1,0 +1,2 @@
+# AI-Based-Traffic-Monitoring-and-Helmet-Detection-System
+AI-based traffic monitoring system that detects and counts vehicles, identifies helmet and non-helmet riders, and analyzes traffic conditions from video input using YOLO object detection models. The system provides real-time traffic analysis, vehicle statistics, and historical data visualization to improve road safety and traffic management.
